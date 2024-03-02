@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian FIlipek
-- 📫 How to reach me: E-mail: adrqwer@outlook.com
+- 📫 How to reach me: E-mail: adrian.filipek@outlook.com
 - I’m currently making a game using c++ in Unreal
 
 
