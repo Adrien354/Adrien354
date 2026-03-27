@@ -29,9 +29,11 @@
 
 ### 🎮 Game Development & Graphics
 <p>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="50" height="50" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" title="OpenGL" height="50" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/The_Vulkan_icon.svg" alt="Vulkan" title="Vulkan" width="50" height="50" />
 </p>
 
 ### 💻 Languages
@@ -47,18 +49,11 @@
 
 ### 🌐 Web & Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrien354&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adrien354's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien354&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="50" height="50" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="50" height="50" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />
 </p>
 
 ---
