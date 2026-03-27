@@ -14,7 +14,7 @@
 
 ---
 
-## 🎮 About Me
+## 👤 About Me
 
 - 🕹️ I'm a **game developer** building games with **C++** in **Unreal Engine**
 - �� I've learned **OpenGL** and I'm currently diving into **Vulkan**
@@ -27,16 +27,16 @@
 
 ## 🛠️ Tech Stack
 
-### 🎮 Game Development & Graphics
+### 🕹️ Game Development & Graphics
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="50" height="50" />
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" title="OpenGL" height="50" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" title="OpenGL" width="50" height="50" />
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/The_Vulkan_icon.svg" alt="Vulkan" title="Vulkan" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/vulkan/AC162C" alt="Vulkan" title="Vulkan" width="50" height="50" />
 </p>
 
-### 💻 Languages
+### 💬 Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -47,13 +47,13 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
-### 🌐 Web & Frontend
+### ⚡ Web & Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="50" height="50" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" title="Next.js" width="50" height="50" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />
 </p>
 
 ---
